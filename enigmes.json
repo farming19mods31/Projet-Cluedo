@@ -6,12 +6,12 @@
     },
     {
         "id": 2,
-        "question": "Quel suspect a un alibi v\u00e9rifiable ?",
-        "reponse": "Sophie Laurent"
+        "question": "Quel suspect a un alibi vérifiable ?",
+        "reponse": "Emma Lefèvre"
     },
     {
         "id": 3,
-        "question": "Quel objet a \u00e9t\u00e9 utilis\u00e9 pour dissimuler la Joconde ?",
+        "question": "Quel objet a été utilisé pour dissimuler la Joconde ?",
         "reponse": "Fausse Joconde"
     }
 ]
