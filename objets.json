@@ -1,50 +1,30 @@
 [
     {
         "id": 1,
-        "nom": "Double des cl\u00e9s",
-        "description": "Cl\u00e9s du conservateur retrouv\u00e9es sur la sc\u00e8ne du crime.",
-        "indice_cache": "Elles ouvrent une porte secr\u00e8te."
+        "nom": "Lucas Marchand",
+        "role": "Conservateur",
+        "description": "Expert en art, suspecté d'avoir préparé une copie.",
+        "image":"LucasMarchand.png"
     },
     {
         "id": 2,
-        "nom": "Gants tach\u00e9s de peinture",
-        "description": "Gants retrouv\u00e9s dans l'atelier de Sophie Laurent.",
-        "indice_cache": "La peinture est fluorescente sous UV."
+        "nom": "Emma Lefèvre",
+        "role": "Restauratrice",
+        "description": "A des compétences pour faire des reproductions.",
+        "image":"EmmaLefevre.png"
     },
     {
         "id": 3,
-        "nom": "Chariot de transport",
-        "description": "Un chariot utilis\u00e9 pour d\u00e9placer des \u0153uvres.",
-        "indice_cache": "Il y a des traces de poussi\u00e8re r\u00e9centes."
+        "nom": "Nathan Dubois",
+        "role": "Gardien de nuit",
+        "description": "A désactivé les caméras.",
+        "image":"NathanDubois.png"
     },
     {
         "id": 4,
-        "nom": "Fausse Joconde",
-        "description": "Une copie presque parfaite du tableau.",
-        "indice_cache": "Mais un d\u00e9tail cloche : la signature est absente."
-    },
-    {
-        "id": 5,
-        "nom": "Double des cl\u00e9s",
-        "description": "Cl\u00e9s du conservateur retrouv\u00e9es sur la sc\u00e8ne du crime.",
-        "indice_cache": "Elles ouvrent une porte secr\u00e8te."
-    },
-    {
-        "id": 6,
-        "nom": "Gants tach\u00e9s de peinture",
-        "description": "Gants retrouv\u00e9s dans l'atelier de Sophie Laurent.",
-        "indice_cache": "La peinture est fluorescente sous UV."
-    },
-    {
-        "id": 7,
-        "nom": "Chariot de transport",
-        "description": "Un chariot utilis\u00e9 pour d\u00e9placer des \u0153uvres.",
-        "indice_cache": "Il y a des traces de poussi\u00e8re r\u00e9centes."
-    },
-    {
-        "id": 8,
-        "nom": "Fausse Joconde",
-        "description": "Une copie presque parfaite du tableau.",
-        "indice_cache": "Mais un d\u00e9tail cloche : la signature est absente."
+        "nom": "Sophie Bernard",
+        "role": "Fausse touriste",
+        "description": "A été vue prendre des notes sur la Joconde.",
+        "image":"SophieBernard.png"
     }
 ]
